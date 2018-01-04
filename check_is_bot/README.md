@@ -39,7 +39,7 @@ The file `decompression_disappointing.php` was found in the same directory as th
 Who?
 ====
 
-At the time of writing, the malware servers mallicious ads for EssayPro. The website EssayPro.com is owned and operated by Devellux LLC, Georgia, according to the website's Terms and Conditions.
+At the time of writing, the malware serves malicious ads for EssayPro. The website EssayPro.com is owned and operated by Devellux LLC, Georgia, according to the website's Terms and Conditions.
 EssayPro (@EssayPro_) has not responded to a request for comments on Twitter regarding their service being advertised in this malicious manner at the time of writing.
 
 The domains `maildelegation.top` and `tndns.net` are registered with DomainContext, Inc. and using Cloudflare's nameservers. The whois for both is as follows:
